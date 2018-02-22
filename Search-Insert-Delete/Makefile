@@ -1,4 +1,4 @@
 all:
-	gcc concurrency3.c -pthread -o Concurrency3
+	gcc Search-Insert-Delete.c -pthread -o SearchInsertDelete
 clean:
-	rm Concurrency3
+	rm SearchInsertDelete
